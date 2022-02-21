@@ -1,2 +1,0 @@
-# pleasuredome
-retro arcade emulation
